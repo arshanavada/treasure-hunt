@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: deeppink;
+}
+canvas {
+  display: block;
+}
+
+header {
+  font-size: 60px;
+  color: white;
+ 
+  padding-left: 40%;
+  padding-right: 40%;
+}
